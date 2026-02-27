@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use GreenHealth AI in your research, please cite it using the metadata below."
+title: "GreenHealth AI: Real-Time Sustainability Intelligence for Hospitals"
+type: software
+authors:
+  - given-names: Shalini 
+    family-names: M
+    affiliation: "Independent Researcher / Developer"
+    email: "shalinimurugan707@gmail.com"
+repository-code: "cff-version: 1.2.0
+message: "If you use GreenHealth AI in your research, please cite it using the metadata below."
+title: "GreenHealth AI: Real-Time Sustainability Intelligence for Hospitals"
+type: software
+authors:
+  - given-names: Shalu
+    family-names: ""
+    affiliation: "Independent Researcher / Developer"
+    email: "your-email@example.com"
+repository-code: "https://github.com/ShaliniMurugan78/greenhealthAI"
+abstract: >
+  GreenHealth AI is a real-time ESG and sustainability intelligence platform
+  designed specifically for hospitals. It integrates live telemetry ingestion,
+  sustainability scoring, anomaly detection, AI-powered recommendations, and
+  automated ESG reporting into a unified healthcare-focused solution.
+keywords:
+  - healthcare
+  - sustainability
+  - ESG
+  - artificial intelligence
+  - hospital analytics
+  - climate tech
+  - real-time monitoring
+license: MIT
+version: 1.0.0
+date-released: 2026-02-27"
+abstract: >
+  GreenHealth AI is a real-time ESG and sustainability intelligence platform
+  designed specifically for hospitals. It integrates live telemetry ingestion,
+  sustainability scoring, anomaly detection, AI-powered recommendations, and
+  automated ESG reporting into a unified healthcare-focused solution.
+keywords:
+  - healthcare
+  - sustainability
+  - ESG
+  - artificial intelligence
+  - hospital analytics
+  - climate tech
+  - real-time monitoring
+license: MIT
+version: 1.0.0
+date-released: 2026-02-27
