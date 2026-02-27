@@ -418,6 +418,6 @@ Distributed under the MIT License.
 ---
 
 <p align="center">
-  Built with ❤️ for Healthcare Sustainability<br/><br/>
+  Built with ❤️ Shalini M <br/><br/>
   <b>🌿 GreenHealth AI — Empowering Hospitals with Real-Time Sustainability Vision</b>
 </p>
