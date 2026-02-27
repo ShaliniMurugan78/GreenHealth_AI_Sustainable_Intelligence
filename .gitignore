@@ -1,0 +1,41 @@
+code D:\GREENHEALTH_AI\.gitignore
+```
+
+Paste this:
+```
+# ── Python ────────────────────────────────────────────────
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+
+# ── Environment (NEVER push API keys) ────────────────────
+.env
+.env.local
+.env.production
+.env.development
+
+# ── Database ──────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Frontend ──────────────────────────────────────────────
+node_modules/
+dist/
+build/
+*.local
+
+# ── Reports ───────────────────────────────────────────────
+reports/*.pdf
+
+# ── IDE ───────────────────────────────────────────────────
+.vscode/
+.idea/
+
+# ── OS ────────────────────────────────────────────────────
+.DS_Store
+greenhealth.db
+*.log

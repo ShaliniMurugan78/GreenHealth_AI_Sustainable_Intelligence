@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-sqlalchemy
+python-dotenv
+groq
+pandas
+numpy
+faker
+reportlab
