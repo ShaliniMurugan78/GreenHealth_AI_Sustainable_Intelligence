@@ -347,6 +347,20 @@ cd frontend && npm run dev
 🔗 **Access GreenHealth AI Here:**  
 https://greenhealth-ai-theta.vercel.app/
 
+### Application Screenshot
+
+<img width="1366" height="641" alt="g1" src="https://github.com/user-attachments/assets/9e8272bf-1e05-4880-9769-d981198aa114" />
+<img width="1366" height="642" alt="g2" src="https://github.com/user-attachments/assets/b4478c80-25ce-49b7-9a4e-947b3724f61c" />
+<img width="1366" height="638" alt="g3" src="https://github.com/user-attachments/assets/5180f998-b1b3-4d9e-b6e0-dff87d96fd9e" />
+<img width="1366" height="645" alt="g4" src="https://github.com/user-attachments/assets/8d664a7a-7a14-4677-8bc6-21e11053b96e" />
+<img width="1366" height="644" alt="g5" src="https://github.com/user-attachments/assets/94fa3f4b-eaf1-47f4-b302-172f3f1f5bc5" />
+<img width="1366" height="645" alt="g6" src="https://github.com/user-attachments/assets/2f2319e8-1910-4d84-a388-9e6f847419d1" />
+
+
+
+
+
+
 ### Typical Workflow
 
 **Monitor** — View live energy, waste, and paper metrics updating every 30 seconds on the main dashboard.
