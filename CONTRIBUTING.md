@@ -15,6 +15,7 @@ We welcome all kinds of contributions:
 🧠 AI / RAG optimizations
 
 ### Getting Started
+
 1️⃣ Fork & Clone the Repository
 git clone https://github.com/your-username/greenhealth-ai.git
 cd greenhealth-ai
