@@ -342,6 +342,11 @@ cd backend && python app.py
 cd frontend && npm run dev
 ```
 
+## 🚀 Live Demo
+
+🔗 **Access GreenHealth AI Here:**  
+https://greenhealth-ai-theta.vercel.app/
+
 ### Typical Workflow
 
 **Monitor** — View live energy, waste, and paper metrics updating every 30 seconds on the main dashboard.
