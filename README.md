@@ -345,7 +345,8 @@ cd frontend && npm run dev
 ## 🚀 Live Demo
 
 🔗 **Access GreenHealth AI Here:**  
-https://greenhealth-ai-theta.vercel.app/
+Backend url : https://greenhealth-ai-backend.onrender.com/api/health
+Frontend url - https://greenhealth-ai-theta.vercel.app/
 
 ### Application Screenshot
 
